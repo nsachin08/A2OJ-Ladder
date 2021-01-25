@@ -35,32 +35,32 @@
 |<ul><li>- [x] Done</li></ul>|28|[Trace](http://codeforces.com/problemset/problem/157/B)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|29|[Sale](http://codeforces.com/problemset/problem/34/B)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|30|[Road Construction](http://codeforces.com/problemset/problem/330/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|31|[Little Pigs and Wolves](http://codeforces.com/problemset/problem/116/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|32|[Before an Exam](http://codeforces.com/problemset/problem/4/B)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|33|[Painting Eggs](http://codeforces.com/problemset/problem/282/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|34|[Lucky Substring](http://codeforces.com/problemset/problem/122/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|35|[Combination](http://codeforces.com/problemset/problem/155/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|36|[Jeff and Periods](http://codeforces.com/problemset/problem/352/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|37|[Unary](http://codeforces.com/problemset/problem/133/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|38|[Polo the Penguin and Matrix](http://codeforces.com/problemset/problem/289/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|39|[Dima and To-do List](http://codeforces.com/problemset/problem/366/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|40|[Coins](http://codeforces.com/problemset/problem/58/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|41|[Han Solo and Lazer Gun](http://codeforces.com/problemset/problem/514/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|42|[Garland](http://codeforces.com/problemset/problem/408/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|43|[Flag Day](http://codeforces.com/problemset/problem/357/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|44|[Art Union](http://codeforces.com/problemset/problem/416/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|45|[Lucky String](http://codeforces.com/problemset/problem/110/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|46|[Petya and Countryside](http://codeforces.com/problemset/problem/66/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|47|[Archer](http://codeforces.com/problemset/problem/312/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|48|[Routine Problem](http://codeforces.com/problemset/problem/337/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|49|[Color the Fence](http://codeforces.com/problemset/problem/349/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|50|[Levko and Permutation](http://codeforces.com/problemset/problem/361/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|51|[Vasya's Calendar](http://codeforces.com/problemset/problem/182/B)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|52|[Reading](http://codeforces.com/problemset/problem/234/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|53|[Phone Numbers](http://codeforces.com/problemset/problem/151/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|54|[Permutation](http://codeforces.com/problemset/problem/359/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|55|[Students and Shoelaces](http://codeforces.com/problemset/problem/129/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|56|[Help Kingdom of Far Far Away 2](http://codeforces.com/problemset/problem/143/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|31|[Little Pigs and Wolves](http://codeforces.com/problemset/problem/116/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|32|[Before an Exam](http://codeforces.com/problemset/problem/4/B)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|33|[Painting Eggs](http://codeforces.com/problemset/problem/282/B)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|34|[Lucky Substring](http://codeforces.com/problemset/problem/122/B)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|35|[Combination](http://codeforces.com/problemset/problem/155/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|36|[Jeff and Periods](http://codeforces.com/problemset/problem/352/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|37|[Unary](http://codeforces.com/problemset/problem/133/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|38|[Polo the Penguin and Matrix](http://codeforces.com/problemset/problem/289/B)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|39|[Dima and To-do List](http://codeforces.com/problemset/problem/366/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|40|[Coins](http://codeforces.com/problemset/problem/58/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|41|[Han Solo and Lazer Gun](http://codeforces.com/problemset/problem/514/B)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|42|[Garland](http://codeforces.com/problemset/problem/408/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|43|[Flag Day](http://codeforces.com/problemset/problem/357/B)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|44|[Art Union](http://codeforces.com/problemset/problem/416/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|45|[Lucky String](http://codeforces.com/problemset/problem/110/B)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|46|[Petya and Countryside](http://codeforces.com/problemset/problem/66/B)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|47|[Archer](http://codeforces.com/problemset/problem/312/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|48|[Routine Problem](http://codeforces.com/problemset/problem/337/B)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|49|[Color the Fence](http://codeforces.com/problemset/problem/349/B)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|50|[Levko and Permutation](http://codeforces.com/problemset/problem/361/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|51|[Vasya's Calendar](http://codeforces.com/problemset/problem/182/B)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|52|[Reading](http://codeforces.com/problemset/problem/234/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|53|[Phone Numbers](http://codeforces.com/problemset/problem/151/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|54|[Permutation](http://codeforces.com/problemset/problem/359/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|55|[Students and Shoelaces](http://codeforces.com/problemset/problem/129/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|56|[Help Kingdom of Far Far Away 2](http://codeforces.com/problemset/problem/143/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|57|[The Child and Set](http://codeforces.com/problemset/problem/437/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|58|[Non-square Equation](http://codeforces.com/problemset/problem/233/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|59|[Special Offer! Super Price 999 Bourles!](http://codeforces.com/problemset/problem/219/B)|Codeforces|4|
