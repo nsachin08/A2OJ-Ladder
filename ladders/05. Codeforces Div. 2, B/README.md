@@ -62,14 +62,14 @@
 |<ul><li>- [x] Done</li></ul>|55|[Students and Shoelaces](http://codeforces.com/problemset/problem/129/B)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|56|[Help Kingdom of Far Far Away 2](http://codeforces.com/problemset/problem/143/B)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|57|[The Child and Set](http://codeforces.com/problemset/problem/437/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|58|[Non-square Equation](http://codeforces.com/problemset/problem/233/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|59|[Special Offer! Super Price 999 Bourles!](http://codeforces.com/problemset/problem/219/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|60|[Little Elephant and Sorting](http://codeforces.com/problemset/problem/205/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|61|[Walking in the Rain](http://codeforces.com/problemset/problem/192/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|62|[Two Tables](http://codeforces.com/problemset/problem/228/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|63|[Xenia and Spies](http://codeforces.com/problemset/problem/342/B)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|58|[Non-square Equation](http://codeforces.com/problemset/problem/233/B)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|59|[Special Offer! Super Price 999 Bourles!](http://codeforces.com/problemset/problem/219/B)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|60|[Little Elephant and Sorting](http://codeforces.com/problemset/problem/205/B)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|61|[Walking in the Rain](http://codeforces.com/problemset/problem/192/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|62|[Two Tables](http://codeforces.com/problemset/problem/228/B)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|63|[Xenia and Spies](http://codeforces.com/problemset/problem/342/B)|Codeforces|4|
 |<ul><li>- [x] Done</li></ul>|64|[Lucky Numbers (easy)](http://codeforces.com/problemset/problem/96/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|65|[Ping-Pong (Easy Version)](http://codeforces.com/problemset/problem/320/B)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|65|[Ping-Pong (Easy Version)](http://codeforces.com/problemset/problem/320/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|66|[After Training](http://codeforces.com/problemset/problem/195/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|67|[Magic, Wizardry and Wonders](http://codeforces.com/problemset/problem/231/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|68|[Limit](http://codeforces.com/problemset/problem/197/B)|Codeforces|4|
